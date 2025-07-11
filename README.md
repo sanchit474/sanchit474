@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sanchit Bajpai
 
 🎓 I'm a Computer Science & Engineering student passionate about building scalable software and exploring new technologies. 
-With a strong foundation in **Advanced Java**, **Data Structures & Algorithms (DSA)**, and **Frontend Development**,
+With a strong foundation in **Advanced Java**, **Data Structures & Algorithms (DSA)**, and **Backend Development**,
 I've created multiple projects that reflect my skills and creativity.
 
 ---
